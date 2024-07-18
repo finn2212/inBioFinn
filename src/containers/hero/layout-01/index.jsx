@@ -44,7 +44,6 @@ const HeroArea = ({ data, id }) => {
                                                     id="page-top"
                                                 >
                                                     <span className="cd-headline clip is-full-width">
-                                                        <span>a </span>{" "}
                                                         <Typewriter
                                                             words={
                                                                 data.animated_texts
