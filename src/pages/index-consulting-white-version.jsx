@@ -11,7 +11,7 @@ import PortfolioArea from "@containers/portfolio/layout-01";
 import ResumeArea from "@containers/resume/layout-01";
 import ClientArea from "@containers/client/layout-01";
 import PricingArea from "@containers/pricing/layout-01";
-import BlogArea from "@containers/blog/layout-01";
+import BlogArea from "@containers/blog/layout-03";
 import ContactArea from "@containers/contact/layout-01";
 import EducationArea from "@containers/education/layout-01";
 import SkillArea from "@containers/skill/layout-01";

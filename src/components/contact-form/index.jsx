@@ -60,7 +60,7 @@ const ContactForm = ({ className, url }) => {
                 >
                     <div className="col-lg-6">
                         <FormGroup>
-                            <Label htmlFor="name">Your Name</Label>
+                            <Label htmlFor="name">Ihr Name</Label>
                             <Input
                                 name="name"
                                 id="name"
@@ -77,7 +77,7 @@ const ContactForm = ({ className, url }) => {
 
                     <div className="col-lg-6">
                         <FormGroup>
-                            <Label htmlFor="phone">Phone Number</Label>
+                            <Label htmlFor="phone">Ihre Nummer</Label>
                             <Input
                                 name="phone"
                                 id="phone"
@@ -115,7 +115,7 @@ const ContactForm = ({ className, url }) => {
 
                     <div className="col-lg-12">
                         <FormGroup>
-                            <Label htmlFor="subject">subject</Label>
+                            <Label htmlFor="subject">Betreff</Label>
                             <Input
                                 id="subject"
                                 name="subject"
@@ -132,7 +132,7 @@ const ContactForm = ({ className, url }) => {
 
                     <div className="col-lg-12">
                         <FormGroup>
-                            <Label htmlFor="message">Your Message</Label>
+                            <Label htmlFor="message">Ihre Nachricht</Label>
                             <Textarea
                                 name="message"
                                 id="message"
@@ -148,7 +148,7 @@ const ContactForm = ({ className, url }) => {
 
                     <div className="col-lg-12">
                         <Button type="submit">
-                            <span>SEND MESSAGE</span>
+                            <span>Nachricht Senden</span>
                             <ArrowRight />
                         </Button>
                         {serverState.status && (

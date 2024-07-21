@@ -73,7 +73,7 @@ const PortfolioModal = ({
                                     {text.content}
                                 </p>
                             ))}
-                            <div className="button-group mt--20">
+                            {/* <div className="button-group mt--20">
                                 <Button path={path} className="thumbs-icon">
                                     <span>LIKE THIS</span>
                                     <ThumbsUp />
@@ -82,7 +82,7 @@ const PortfolioModal = ({
                                     <span>VIEW PROJECT</span>
                                     <ChevronRight />
                                 </Button>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>

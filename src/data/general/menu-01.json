@@ -9,7 +9,7 @@
         },
         {
             "id": 2,
-            "text": "Features",
+            "text": "Skills",
             "path": "features"
         },
         {
@@ -19,18 +19,8 @@
         },
         {
             "id": 4,
-            "text": "Resume",
+            "text": "Lebenslauf",
             "path": "resume"
-        },
-        {
-            "id": 5,
-            "text": "Clients",
-            "path": "clients"
-        },
-        {
-            "id": 6,
-            "text": "Pricing",
-            "path": "pricing"
         },
         {
             "id": 7,

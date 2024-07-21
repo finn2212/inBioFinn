@@ -27,7 +27,7 @@
                     "id": 1,
                     "title": "developer",
                     "image": {
-                        "src": "../images/icons/icons-01.png",
+                        "src": "../images/icons/icons-17.png",
                         "alt": "Skill Icon"
                     }
                 },
@@ -35,7 +35,7 @@
                     "id": 2,
                     "title": "developer",
                     "image": {
-                        "src": "../images/icons/icons-02.png",
+                        "src": "../images/icons/icons-16.png",
                         "alt": "Skill Icon"
                     }
                 },
@@ -60,7 +60,7 @@
             "section": "service-section",
             "section_title": {
                 "title": "Was ich mache",
-                "subtitle": "Features"
+                "subtitle": "Skills"
             },
             "items": [
                 {
@@ -240,8 +240,8 @@
             "id": "default-home-resume",
             "section": "resume-section",
             "section_title": {
-                "title": "My Resume",
-                "subtitle": "7+ Years of Experience"
+                "title": "Lebenslauf",
+                "subtitle": "9+ Jahre an Erfahrung"
             }
         },
         {
@@ -252,60 +252,37 @@
                 {
                     "id": "education-section-left",
                     "section_title": {
-                        "title": "Education Quality",
-                        "subtitle": "2007 - 2010"
+                        "title": "Akedemische Laufbahn",
+                        "subtitle": "2015 - 2020"
                     },
                     "items": [
                         {
                             "id": 1,
-                            "title": "Personal Portfolio April Fools",
-                            "subtitle": "University of DVI (1997 - 2001)",
-                            "rating": "4.30/5",
-                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Bachelor of Sience Wirtschaftsinformatik",
+                            "subtitle": "Nordakademie Hochschule der Wirtschaft 2015-2018",
+                            "description": "Der Studiengang Wirtschafts­informatik an der NORDAKADEMIE kombiniert Informatik und Betriebswirtschaftslehre, mit Schwerpunkten in Geschäftsprozessmanagement und IT-Projektmanagement. Neben den Grundlagen der Informatik und BWL werden auch rechtliche Aspekte und Soft Skills vermittelt. Praxisorientierte Projekte und Unternehmenspraktika runden das Studium ab."
                         },
                         {
                             "id": 2,
-                            "title": "Examples Of Personal Portfolio",
-                            "subtitle": "College of Studies (2000 - 2002)",
+                            "title": "Master of Sience IT-Managment",
+                            "subtitle": "Nordakademie Graduate School 2018-2020",
                             "rating": "4.50/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
-                        },
-                        {
-                            "id": 3,
-                            "title": "Tips For Personal Portfolio",
-                            "subtitle": "University of Studies (1997 - 2001)",
-                            "rating": "4.80/5",
-                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "description": "Der Masterstudiengang IT-Management an der NORDAKADEMIE vertieft Kenntnisse in den Bereichen IT-Strategie, Projektmanagement und Unternehmensarchitektur. Der Fokus liegt auf der Verbindung von Informationstechnologie und Management, um effektive und innovative IT-Lösungen zu entwickeln. Praxisprojekte und interdisziplinäre Zusammenarbeit sind zentrale Bestandteile des Studiums."
                         }
                     ]
                 },
                 {
                     "id": "education-section-right",
                     "section_title": {
-                        "title": "Job Experience",
+                        "title": "Schulische Laufbahn",
                         "subtitle": "2007 - 2010"
                     },
                     "items": [
                         {
                             "id": 1,
-                            "title": "Diploma in Web Development",
-                            "subtitle": "BSE In CSE (2004 - 2008)",
-                            "rating": "4.70/5",
-                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
-                        },
-                        {
-                            "id": 2,
-                            "title": "The Personal Portfolio Mystery",
-                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
-                            "rating": "4.95/5",
-                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
-                        },
-                        {
-                            "id": 3,
-                            "title": "Diploma in Computer Science",
-                            "subtitle": "Works at Plugin Development (2016 - 2020)",
-                            "rating": "5.00/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Abitur",
+                            "subtitle": "Ludwig-Meyn-Gymnasium (2015)",
+                            "description": "Abitur am Ludwig-Meyn-Gymnasium im Jahr 2015 abgeschlossen, mit einem besonderen Schwerpunkt auf den Naturwissenschaften. Dieser Schwerpunkt hat mir fundierte Kenntnisse und ein tiefes Verständnis in Fächern wie Mathematik, Physik, Chemie und Biologie vermittelt."
                         }
                     ]
                 }
@@ -389,65 +366,59 @@
         {
             "id": "default-home-experience",
             "section": "experience-section",
-            "title": "experience",
+            "title": "Berufliche Erfahrung",
             "inner": [
                 {
                     "id": "default-home-experience-left",
                     "section_title": {
-                        "title": "Education Quality",
-                        "subtitle": "2007 - 2010"
+                        "title": "Selbständige Projekte",
+                        "subtitle": "2020 - 2024"
                     },
                     "items": [
                         {
                             "id": 1,
-                            "title": "Personal Portfolio April Fools",
-                            "subtitle": "University of DVI (1997 - 2001)",
-                            "rating": "4.30/5",
-                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Technical Teamlead and Shopify Plus Developer",
+                            "subtitle": "The Quality Group, Elmshorn, Germany (August 2023 - April 2024)",
+                            "description": "Fokus auf die Verbesserung der ästhetischen Attraktivität und Benutzeroberfläche, um moderne Designtrends und Benutzerfreundlichkeitsstandards zu erfüllen. Ziel ist es, innovative und maßgeschneiderte Werbeangebote für Kunden anzubieten sowie präzise und personalisierte Benachrichtigungen zu gewährleisten, wenn gewünschte Produkte wieder verfügbar sind. Sicherstellung des reibungslosen Betriebs des Webshops für ein optimales Benutzererlebnis. Als technischer Teamleiter ist ESN für kritische technische Entscheidungen und die erfolgreiche Umsetzung von Projekten verantwortlich. Die Anforderungen umfassen Shopify, Shopify Plus, Liquid, React, Hydrogen, Tailwind, HTML, CSS und GitHub."
                         },
                         {
                             "id": 2,
-                            "title": "Examples Of Personal Portfolio",
-                            "subtitle": "College of Studies (2000 - 2002)",
-                            "rating": "4.50/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Headless Shopware Shop with PWA",
+                            "subtitle": "Capella AG, Lohfelden, Germany (November 2022 - August 2023)",
+                            "description": "Entwicklung einer headless E-Commerce-Plattform mit Shopware zur Lösung komplexer Geschäftsanforderungen. Integration einer Progressive Web App (PWA) mit Vue.js und Nuxt.js für Anpassbarkeit und Leistung. Implementierung einer headless E-Commerce-Architektur für umfangreiche Anpassungen und Skalierbarkeit. Optimierung der Ladezeiten und Benutzererfahrung über alle Geräte hinweg. Nutzung von GitHub Actions für die Automatisierung des Entwicklungs- und Bereitstellungsprozesses. Proficiency in Vue.js, Nuxt.js, GitHub und MySQL erforderlich."
                         },
                         {
                             "id": 3,
-                            "title": "Tips For Personal Portfolio",
-                            "subtitle": "University of Studies (1997 - 2001)",
-                            "rating": "4.80/5",
-                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Custom Online Shop Development",
+                            "subtitle": "Janosch AG, Berlin, Germany (January 2023 - June 2023)",
+                            "description": "Nutzung von Shopify zur Erfüllung der spezifischen Anforderungen und strategischen Ziele des Kunden. Bereitstellung eines interaktiven und ansprechenden Einkaufserlebnisses. Sicherstellung einer reibungslosen und sicheren Einkaufserfahrung. Umfassende SEO-Optimierung zur Verbesserung der Sichtbarkeit in Suchmaschinen. Durchführung gründlicher Qualitätssicherungs- und Testprotokolle für eine fehlerfreie Benutzererfahrung. Expertise in Shopify, Liquid, HTML und CSS erforderlich."
+                        },
+                        {
+                            "id": 6,
+                            "title": "Freelance Front-End Development",
+                            "subtitle": "Corporate Planning AG, Hamburg, Germany (January 2020 - June 2022)",
+                            "description": "Front-End-Entwicklung für die 'Corporate Planner' Software. Fokus auf ein intuitives und responsives Benutzeroberflächendesign. Durchführung von Code-Reviews und Qualitätssicherungsmaßnahmen zur Gewährleistung der Zuverlässigkeit und Effizienz des Front-End-Codes. Implementierung und Durchführung von Unit-Tests zur Validierung der Code-Funktionalität."
                         }
                     ]
                 },
                 {
                     "id": "default-home-section-right",
                     "section_title": {
-                        "title": "Job Experience",
+                        "title": "Berufserfahrung",
                         "subtitle": "2007 - 2010"
                     },
                     "items": [
                         {
                             "id": 1,
-                            "title": "Diploma in Web Development",
-                            "subtitle": "BSE In CSE (2004 - 2008)",
-                            "rating": "4.70/5",
-                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Full Stack Developer",
+                            "subtitle": "Corporate Planning AG, Hamburg, Germany (January 2019 - December 2020)",
+                            "description": "Umfassende Softwareentwicklung zur Gewährleistung integrierter Lösungen. Optimierung von Datenlagervorgängen bei gleichzeitiger Wahrung der Datenintegrität und Sicherheitsstandards. Entwicklung eines spezialisierten Tools mit AngularJS zur Automatisierung von AWS-Bereitstellungen. Enge Zusammenarbeit mit funktionsübergreifenden Teams zur nahtlosen Integration von Front-End-, Back-End- und Datenbankkomponenten."
                         },
                         {
                             "id": 2,
-                            "title": "The Personal Portfolio Mystery",
-                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
-                            "rating": "4.95/5",
-                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
-                        },
-                        {
-                            "id": 3,
-                            "title": "Diploma in Computer Science",
-                            "subtitle": "Works at Plugin Development (2016 - 2020)",
-                            "rating": "5.00/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Cooperative Education Software Development Training",
+                            "subtitle": "Ravensburg, Germany (October 2015 - January 2019)",
+                            "description": "Ganzheitlicher Lernansatz, der akademisches Wissen mit praktischer Anwendung verbindet. Entwicklung umfassender Fähigkeiten und Kenntnisse in modernen Softwareentwicklungstechnologien. Teilnahme an verschiedenen Projekten zur Anwendung akademischen Wissens in realen Szenarien."
                         }
                     ]
                 }
@@ -456,65 +427,32 @@
         {
             "id": "default-home-interview",
             "section": "interview-section",
-            "title": "interview",
+            "title": "Weitere Projekte",
             "inner": [
                 {
                     "id": "default-home-experience-left",
                     "section_title": {
                         "title": "Company Experience",
-                        "subtitle": "2007 - 2010"
+                        "subtitle": "2020 - 2024"
                     },
                     "items": [
                         {
-                            "id": 1,
-                            "title": "Personal Portfolio April Fools",
-                            "subtitle": "University of DVI (1997 - 2001)",
-                            "rating": "4.30/5",
-                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "id": 4,
+                            "title": "Märchenposter Online Shop Development",
+                            "subtitle": "Germany (July 2022 - December 2022)",
+                            "description": "Leitung der Entwicklung eines einzigartigen Online-Shops für Märchenposter mit maßgeschneiderten E-Commerce-Lösungen und fortschrittlichen Zahlungsoptionen. Anpassbare Designstrategien für eine herausragende Benutzererfahrung über verschiedene Geräte hinweg. Strategische Implementierung zur Steigerung der Sichtbarkeit und Marktposition. Engagement für hohe Qualitäts- und Zuverlässigkeitsstandards."
+                        },
+                        {
+                            "id": 5,
+                            "title": "Shopify Shop and Data Warehouse Implementation",
+                            "subtitle": "Tool Trade Feldmann, Hessen, Germany (January 2022 - August 2022)",
+                            "description": "Entwicklung und Einführung eines umfassenden Shopify-Shops mit Integration des DreamRobot-Datenlagersystems. Konfiguration von Multi-Sales-Kanälen. Implementierung einer E-Commerce-Strategie zur Optimierung der Betriebsabläufe und Steigerung der Leistung. Fokus auf Benutzerfreundlichkeit und ansprechendes Design zur Verbesserung der Kundenzufriedenheit."
                         },
                         {
                             "id": 2,
-                            "title": "Examples Of Personal Portfolio",
-                            "subtitle": "College of Studies (2000 - 2002)",
-                            "rating": "4.50/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
-                        },
-                        {
-                            "id": 3,
-                            "title": "Tips For Personal Portfolio",
-                            "subtitle": "University of Studies (1997 - 2001)",
-                            "rating": "4.80/5",
-                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
-                        }
-                    ]
-                },
-                {
-                    "id": "default-home-section-right",
-                    "section_title": {
-                        "title": "Job Experience",
-                        "subtitle": "2007 - 2010"
-                    },
-                    "items": [
-                        {
-                            "id": 1,
-                            "title": "Diploma in Web Development",
-                            "subtitle": "BSE In CSE (2004 - 2008)",
-                            "rating": "4.70/5",
-                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
-                        },
-                        {
-                            "id": 2,
-                            "title": "The Personal Portfolio Mystery",
-                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
-                            "rating": "4.95/5",
-                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
-                        },
-                        {
-                            "id": 3,
-                            "title": "Diploma in Computer Science",
-                            "subtitle": "Works at Plugin Development (2016 - 2020)",
-                            "rating": "5.00/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Online Shop and Website Customization and Bug Fixing",
+                            "subtitle": "Kaimana Store, Jamul, Germany (November 2021 - January 2022)",
+                            "description": "Durchführung gezielter Anpassungen zur Verbesserung der Benutzererfahrung und Funktionalität. Identifizierung und Behebung technischer Probleme zur Gewährleistung einer reibungslosen und fehlerfreien Benutzererfahrung. Optimierung der Website-Performance für schnellere Ladezeiten und ein responsives Benutzerinterface. Verbesserung der E-Commerce-Funktionen zur Optimierung des Einkaufserlebnisses."
                         }
                     ]
                 }
@@ -524,19 +462,18 @@
             "id": "default-home-testimonial",
             "section": "testimonial-section",
             "section_title": {
-                "title": "Testimonial",
-                "subtitle": "What Clients Say"
+                "title": "Testimonials",
+                "subtitle": "Was meine Kunden sagen"
             },
             "items": [
                 {
                     "id": 1,
-                    "title": "Nevine Acotanza",
-                    "subtitle": "Rainbow-Themes",
-                    "designation": "Chief Operating Officer",
-                    "projectTitle": "Android App Development",
-                    "projectMeta": "via Upwork - Mar 4, 2015 - Aug 30, 2021",
-                    "rating": "5",
-                    "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris .",
+                    "title": "Anne – Kathrin Tornette",
+                    "subtitle": "The Quality Group",
+                    "designation": "Head of Engineering",
+                    "projectTitle": "Shopify Entwicklung",
+                    "projectMeta": "via Pagetime - August 1, 2023 - Juni 30, 2024",
+                   "description": "Finn Stolle hat als Senior Frontend Engineer auf freiberuflicher Basis maßgeblich zum Erfolg unseres Unternehmens beigetragen. Seine Expertise in Frontend-Technologien wie Shopify, React.js und Vue.js hat unsere Shopsysteme verbessert. Durch sein Coaching hat Finn unser Team weiterentwickelt. Er war stets zuverlässig, pünktlich und brachte innovative Ideen ein, die unsere Produktqualität verbesserten. Finn Stolle ist eine wertvolle Bereicherung für jedes Team. Für weitere Informationen stehe ich Ihnen gerne zur Verfügung.",
                     "images": [
                         {
                             "src": "../images/testimonial/final-home--1st.png"
@@ -545,13 +482,12 @@
                 },
                 {
                     "id": 2,
-                    "title": "Jone Duone Joe",
-                    "subtitle": "Bound - Trolola",
-                    "designation": "Operating Officer",
-                    "projectTitle": "Web App Development",
-                    "projectMeta": "Upwork - Mar 4, 2016 - Aug 30, 2021",
-                    "rating": "4",
-                    "description": "Important fact to nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris.",
+                    "title": "Florin Milla",
+                    "subtitle": "DELA - Deutsche E-Learning Akademie",
+                    "designation": "CEO & Co-Founder",
+                    "projectTitle": "Entiwicklung eines XML Konfigurators",
+                    "projectMeta": "Juni 1, 2024 - August 30, 2024",
+                    "description": "Finn hat als freiberuflicher Entwickler einen XML-Konfigurator mit Vue.js entwickelt, der unsere Prozesse erheblich vereinfacht und die Bearbeitungszeit für XML-Dateien um über 85% reduziert hat. Seine tiefgehenden Kenntnisse in Vue.js und seine Fähigkeit, komplexe Anforderungen in benutzerfreundliche Lösungen umzusetzen, haben maßgeblich zum Erfolg des Projekts beigetragen. Finn betreute das Projekt von der Planung bis zur Umsetzung und berücksichtigte dabei stets unsere Anforderungen. Seine zuverlässige Arbeitsweise und sein technisches Know-how waren entscheidend für den Projekterfolg.",
                     "images": [
                         {
                             "src": "../images/testimonial/final-home--2nd.png"
@@ -560,13 +496,12 @@
                 },
                 {
                     "id": 3,
-                    "title": "Nevine Dhawan",
-                    "subtitle": "Glassfisom",
-                    "designation": "CEO Of Officer",
-                    "projectTitle": "Android App Design",
-                    "projectMeta": "Fiver - Mar 4, 2015 - Aug 30, 2021",
-                    "rating": "5",
-                    "description": "No more question for design. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris .",
+                    "title": "Sebastian Gabriel",
+                    "subtitle": "AURIO GmbH",
+                    "designation": "Geschäftsführer",
+                    "projectTitle": "Headless Shopware Development",
+                    "projectMeta": "Freelancer Map - März 1, 2022 - ",
+                    "description": "Mit capellaprint können wir unsere Partituren in Musikverlagsqualität drucken lassen. Die Zusammenarbeit zwischen capella-software und AURIOPRINT bietet herausragende Druckqualität. Der benutzerfreundliche Prozess – Konfiguration, PDF-Upload und Online-Bestellung – ist schnell und effizient. Innerhalb von 48 bis 72 Stunden sind unsere Notenausgaben versandfertig. Die elfenbeinfarbigen Notenpapiere und die gestochen scharfe Druckqualität sorgen für eine professionelle Präsentation. Zudem ermöglicht capellaprint die bequeme Zahlung auf Rechnung und Lastschrift.",
                     "images": [
                         {
                             "src": "../images/testimonial/final-home--3rd.png"
@@ -1577,8 +1512,8 @@
             "id": "default-home-blog",
             "section": "blog-section",
             "section_title": {
-                "title": "My Blog",
-                "subtitle": "Visit my blog and keep your feedback"
+                "title": "Mein Blog",
+                "subtitle": "Ein Auszug meiner nuesten Blogartikel"
             }
         },
         {
@@ -1595,15 +1530,15 @@
             ],
             "headings": [
                 {
-                    "content": "Nevine Acotanza"
+                    "content": "Finn Stolle"
                 },
                 {
-                    "content": "Chief Operating Officer"
+                    "content": "Freiberuflicher Entwickler"
                 }
             ],
             "texts": [
                 {
-                    "content": "I am available for freelance work. Connect with me via and call in to my account."
+                    "content": "Ich stehe für freiberufliche Arbeiten zur Verfügung. Kontaktieren Sie mich über und rufen Sie mich auf meinem Account an."
                 }
             ]
         }

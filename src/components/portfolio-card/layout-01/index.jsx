@@ -30,14 +30,14 @@ const PortfolioCard = ({ title, category, likeCount, image, path, texts }) => {
                             </div>
                             <div className="meta">
                                 <span>
-                                    <button type="button">
+                                    {/* <button type="button">
                                         <Icon
                                             name="Heart"
                                             size={13}
                                             strokeWidth={3}
                                         />{" "}
                                         {likeCount && likeCount}
-                                    </button>
+                                    </button> */}
                                 </span>
                             </div>
                         </div>

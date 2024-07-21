@@ -1,11 +1,6 @@
 {
     "id": "header-data-1",
     "section": "header-1",
-    "button": {
-        "id": 1,
-        "content": "BUY NOW",
-        "path": "https://themeforest.net/checkout/from_item/34615039?license=regular"
-    },
     "logo": [
         {
             "src": "../images/logo/logo.png"

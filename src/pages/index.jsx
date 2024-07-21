@@ -41,14 +41,14 @@ const IndexPage = ({ data }) => {
                 <ServicesArea data={content["service-section"]} />
                 <PortfolioArea data={content["portfolio-section"]} />
                 <ResumeArea data={content["resume-section"]}>
-                    <EducationArea data={content["education-section"]} />
-                    <SkillArea data={content["skill-section"]} />
                     <ExperienceArea data={content["experience-section"]} />
                     <InterviewArea data={content["interview-section"]} />
+                    <EducationArea data={content["education-section"]} />
+                    <SkillArea data={content["skill-section"]} />
                 </ResumeArea>
                 <TestimonialArea data={content["testimonial-section"]} />
-                <ClientArea data={content["client-section"]} />
-                <PricingArea data={content["pricing-section"]} />
+                {/* <ClientArea data={content["client-section"]} /> */}
+                {/* <PricingArea data={content["pricing-section"]} /> */}
                 <BlogArea
                     data={{
                         ...content["blog-section"],
@@ -91,7 +91,7 @@ export const query = graphql`
                 ...Content01
             }
         }
-        allArticle(limit: 3) {
+        allArticle(limit: 6) {
             nodes {
                 ...Article
             }
