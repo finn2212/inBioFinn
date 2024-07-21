@@ -59,50 +59,50 @@
             "id": "default-home-services",
             "section": "service-section",
             "section_title": {
-                "title": "What I Do",
+                "title": "Was ich mache",
                 "subtitle": "Features"
             },
             "items": [
                 {
                     "id": 1,
-                    "title": "Business Stratagy",
-                    "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+                    "title": "Web Entwicklung",
+                    "description": "Professionelle Webentwicklung, die moderne Technologien und benutzerfreundliches Design kombiniert, um leistungsstarke und responsive Websites zu erstellen",
                     "icon": "Menu",
                     "path": "#!"
                 },
                 {
                     "id": 2,
-                    "title": "App Development",
-                    "description": "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence.",
+                    "title": "Mobile Native App ",
+                    "description": "Entwicklung von native mobile Apps, die auf modernsten Technologien basieren und ein nahtloses Benutzererlebnis auf iOS und Android bieten",
                     "icon": "BookOpen",
                     "path": "#!"
                 },
                 {
                     "id": 3,
-                    "title": "App Development",
-                    "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+                    "title": "E-Commerce",
+                    "description": "Leistungsstarke E-Commerce-Lösungen, die Ihren Online-Shop durch ansprechendes Design und intuitive Benutzerführung zum Erfolg führen",
                     "icon": "Tv",
                     "path": "#!"
                 },
                 {
                     "id": 4,
-                    "title": "Mobile App",
-                    "description": "There are many variations of passages of Lorem Ipsum available, but the majority.",
+                    "title": "IT-Consulting",
+                    "description": "Maßgeschneiderte IT-Beratung, um Ihre technologischen Herausforderungen zu meistern und Ihre digitalen Projekte zum Erfolg zu führen",
                     "icon": "Twitch",
                     "path": "#!"
                 },
                 {
                     "id": 5,
-                    "title": "CEO Marketing",
-                    "description": "always free from repetition, injected humour, or non-characteristic words etc.",
-                    "icon": "Wifi",
+                    "title": "UI/UX Design",
+                    "description": "Intuitive und ästhetische Benutzeroberflächen, die eine optimale Benutzererfahrung gewährleisten und Ihre Kunden begeistern",
+                    "icon": "Slack",
                     "path": "#!"
                 },
                 {
                     "id": 6,
-                    "title": "Personal Portfolio April",
-                    "description": "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence.",
-                    "icon": "Slack",
+                    "title": "IT Support & Maintenance",
+                    "description": "Zuverlässiger IT-Support und regelmäßige Wartung, um den reibungslosen Betrieb Ihrer Systeme sicherzustellen",
+                    "icon": "Wifi",
                     "path": "#!"
                 }
             ]
@@ -111,20 +111,20 @@
             "id": "default-home-portfolio",
             "section": "portfolio-section",
             "section_title": {
-                "title": "My Portfolio",
-                "subtitle": "Visit my portfolio and keep your feedback"
+                "title": "Mein Portfolio",
+                "subtitle": "Ein Auszug aus meiner Arbeit"
             },
             "items": [
                 {
                     "id": 1,
-                    "title": "The services provide for design",
-                    "category": "Development",
+                    "title": "Redesign eines der umsatzstärksten Shopify Plus Stores Deutschlands",
+                    "category": "Shopify Entwicklung",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "Neu gestaltung eines Shopify-Stores mit "
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "Optimierung des Webshops und signifikante Steigerung des Umsatzes durch gezielte Maßnahmen."
                         }
                     ],
                     "images": [
@@ -132,8 +132,7 @@
                             "src": "../images/portfolio/portfolio-01.jpg"
                         }
                     ],
-                    "path": "#!",
-                    "likeCount": 600
+                    "path": "#!"
                 },
                 {
                     "id": 2,
