@@ -27,7 +27,7 @@ module.exports = {
             {
                 id: 3,
                 title: "linkedin",
-                path: "https://linkedin.com",
+                path: "https://de.linkedin.com/in/finn-stolle-969922178",
                 icon: "Linkedin",
             },
         ],
