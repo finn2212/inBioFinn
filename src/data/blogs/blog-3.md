@@ -1,5 +1,5 @@
 ---
-title: Die Zukunft des Webdesigns; Trends, die Sie im Auge behalten sollten
+title: Die Zukunft des Webdesigns Trends, die Sie im Auge behalten sollten
 date: 2021-05-03 11:10:00
 category: Application
 image: {

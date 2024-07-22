@@ -23,7 +23,7 @@ const IndexPage = ({ data }) => {
     const content = normalizedData(data?.homePage?.content || []);
 
     return (
-        <Layout pageTitle="Home Default">
+        <Layout pageTitle="Stolle DEV">
             <Header
                 data={{
                     ...data.header,
@@ -40,6 +40,7 @@ const IndexPage = ({ data }) => {
                 />
                 <ServicesArea data={content["service-section"]} />
                 <PortfolioArea data={content["portfolio-section"]} />
+                <PricingArea data={content["pricing-section"]} />
                 <ResumeArea data={content["resume-section"]}>
                     <ExperienceArea data={content["experience-section"]} />
                     <InterviewArea data={content["interview-section"]} />
@@ -48,7 +49,7 @@ const IndexPage = ({ data }) => {
                 </ResumeArea>
                 <TestimonialArea data={content["testimonial-section"]} />
                 {/* <ClientArea data={content["client-section"]} /> */}
-                {/* <PricingArea data={content["pricing-section"]} /> */}
+
                 <BlogArea
                     data={{
                         ...content["blog-section"],

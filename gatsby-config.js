@@ -2,7 +2,8 @@ module.exports = {
     siteMetadata: {
         siteUrl: "https://www.yourdomain.tld",
         title: "Finn Stolle Development Portfoilio",
-        description: "Hier ",
+        description:
+            "Arbeiten Sie mit mir zusammen für Ihr nächstes IT Projekt",
         author: "Finn Stolle",
         siteLanguage: "DE",
         image: "banner.jpg",
@@ -84,8 +85,8 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: "Inbio",
-                short_name: "inbio",
+                name: "Stolle Web Development",
+                short_name: "Stolle Dev",
                 theme_color: "#ff014f",
                 background_color: "#ffffff",
                 display: "standalone",

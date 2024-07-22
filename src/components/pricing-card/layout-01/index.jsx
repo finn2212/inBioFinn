@@ -50,17 +50,13 @@ const PricingCard = ({
             </div>
             <div className="pricing-footer">
                 <Anchor path={orderLink} className="rn-btn d-block">
-                    <span>ORDER NOW</span>
+                    <span>Jetzt Kontaktieren</span>
                     <ArrowRight />
                 </Anchor>
                 <div className="time-line">
                     <div className="single-cmt d-flex">
                         <Clock />
-                        <span>{deliveryTime} Days Delivery</span>
-                    </div>
-                    <div className="single-cmt d-flex">
-                        <Activity />
-                        <span>{revission} Revission</span>
+                        <span>Schnelle Antwortzeity</span>
                     </div>
                 </div>
             </div>

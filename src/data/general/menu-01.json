@@ -18,6 +18,11 @@
             "path": "portfolio"
         },
         {
+            "id": 3,
+            "text": "Angebot",
+            "path": "pricing"
+        },
+        {
             "id": 4,
             "text": "Lebenslauf",
             "path": "resume"

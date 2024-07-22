@@ -117,14 +117,29 @@
             "items": [
                 {
                     "id": 1,
-                    "title": "Redesign eines der umsatzstärksten Shopify Plus Stores Deutschlands",
-                    "category": "Shopify Entwicklung",
+                    "title": "Technical Teamlead and Shopify Plus Developer",
+                    "category": "ESN",
                     "texts": [
                         {
-                            "content": "Neu gestaltung eines Shopify-Stores mit "
+                            "content": "Fokus auf die Verbesserung des ästhetischen Erscheinungsbilds und der Benutzeroberfläche, um modernen Designtrends und Usability-Standards zu entsprechen."
                         },
                         {
-                            "content": "Optimierung des Webshops und signifikante Steigerung des Umsatzes durch gezielte Maßnahmen."
+                            "content": "Angebot innovativer und maßgeschneiderter Werbeaktionen für Kunden."
+                        },
+                        {
+                            "content": "Sicherstellung präziser und personalisierter Benachrichtigungen für Kunden bei Wiederauffüllung gewünschter Produkte."
+                        },
+                        {
+                            "content": "Gewährleistung eines reibungslosen und effizienten Betriebs des Webshops für ein optimales Benutzererlebnis."
+                        },
+                        {
+                            "content": "Leitung des technischen Teams, Treffen kritischer technischer Entscheidungen und Bereitstellung von Anleitungen zur erfolgreichen Umsetzung von Projekten."
+                        },
+                        {
+                            "content": "Sicherstellung der Ausrichtung an den Geschäftszielen und Erfüllung der sich wandelnden Kundenbedürfnisse."
+                        },
+                        {
+                            "content": "Erforderliche Kenntnisse: Shopify, Shopify Plus, Liquid, React, Hydrogen, Tailwind, HTML, CSS, GitHub."
                         }
                     ],
                     "images": [
@@ -136,14 +151,29 @@
                 },
                 {
                     "id": 2,
-                    "title": "Mobile app landing design & app maintain",
-                    "category": "Application",
+                    "title": "Custom Online Shop Development Shopify",
+                    "category": "Janosch AG",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "Planung und Umsetzung eines maßgeschneiderten Shopify-Shops zur Erfüllung der einzigartigen Anforderungen und strategischen Ziele des Kunden."
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "Bereicherung des Einkaufserlebnisses durch interaktive und ansprechende Funktionen."
+                        },
+                        {
+                            "content": "Sicherstellung eines reibungslosen und sicheren Einkaufserlebnisses für Kunden."
+                        },
+                        {
+                            "content": "Optimale Gestaltung und Interaktion über diverse Geräte hinweg für ein nahtloses Benutzererlebnis."
+                        },
+                        {
+                            "content": "Umfassende SEO-Optimierung zur Verbesserung der Sichtbarkeit in Suchmaschinen und Steigerung der Online-Präsenz."
+                        },
+                        {
+                            "content": "Strenge Qualitätsprüfung und Testprotokolle zur Sicherstellung einer fehlerfreien Benutzererfahrung vor dem Live-Gang."
+                        },
+                        {
+                            "content": "Erforderliche Kenntnisse: Shopify, Liquid, HTML, CSS."
                         }
                     ],
                     "images": [
@@ -156,14 +186,32 @@
                 },
                 {
                     "id": 3,
-                    "title": "Logo design creativity & Application",
-                    "category": "Photoshop",
+                    "title": "Headless Shopware Shop With PWA",
+                    "category": "Capella AG",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "Entwicklung einer headless E-Commerce-Plattform in Zusammenarbeit mit Capella AG, unter Verwendung von Shopware zur Lösung komplexer Geschäftsfälle durch innovative technologische Lösungen."
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "Integration einer Progressive Web App (PWA) mit Vue.js und Nuxt.js für verbesserte Anpassungsfähigkeit und Leistung."
+                        },
+                        {
+                            "content": "Implementierung und Launch einer headless E-Commerce-Architektur für umfangreiche Anpassungen und Skalierbarkeit der Shopping-Plattform."
+                        },
+                        {
+                            "content": "Entwicklung maßgeschneiderter Lösungen zur nahtlosen Integration in die headless Architektur zur Erfüllung komplexer Geschäftsanforderungen."
+                        },
+                        {
+                            "content": "Optimierung des Entwicklungsworkflows durch GitHub-Deployments via GitHub Actions, was zu effizienten und automatisierten Deployment-Prozessen führte."
+                        },
+                        {
+                            "content": "Leistungsoptimierung für schnelle Ladezeiten und ein ansprechendes Benutzererlebnis auf allen Geräten."
+                        },
+                        {
+                            "content": "Enge Zusammenarbeit mit Capella AG zur effektiven Bewältigung der spezifischen Herausforderungen des Projekts."
+                        },
+                        {
+                            "content": "Erforderliche Kenntnisse: Vue.js, Nuxt.js, GitHub, MySQL."
                         }
                     ],
                     "images": [
@@ -176,14 +224,29 @@
                 },
                 {
                     "id": 4,
-                    "title": "Mobile app landing design & Services",
-                    "category": "Figma",
+                    "title": "Entwicklung einer Webapplication",
+                    "category": "DELA - Deustche E-Learning Akademie",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "Entwicklung einer Webanwendung zur Konfiguration von XML-Dateien für die DELA GmbH, die den Zeitaufwand erheblich reduziert hat."
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "Die Anwendung ermöglicht eine einfache und effiziente Erstellung und Bearbeitung von XML-Dateien zur Verwaltung und Hochladung von Kursen im Kursnet-Portal."
+                        },
+                        {
+                            "content": "Durch die intuitive Benutzeroberfläche können Mitarbeiter ohne tiefgehende technische Kenntnisse XML-Dateien konfigurieren."
+                        },
+                        {
+                            "content": "Die Automatisierung und Optimierung des Prozesses hat zu einer signifikanten Zeitersparnis und einer Reduzierung der Fehlerquote geführt."
+                        },
+                        {
+                            "content": "Die Anwendung bietet eine nahtlose Integration in bestehende Systeme und gewährleistet eine hohe Datenqualität und Konsistenz."
+                        },
+                        {
+                            "content": "Enge Zusammenarbeit mit der DELA GmbH zur präzisen Anpassung an die spezifischen Anforderungen und zur kontinuierlichen Verbesserung der Anwendung."
+                        },
+                        {
+                            "content": "Erforderliche Kenntnisse: Vue.js, Node.js, Express, Supabase."
                         }
                     ],
                     "images": [
@@ -196,19 +259,34 @@
                 },
                 {
                     "id": 5,
-                    "title": "Design for tecnology & services",
-                    "category": "Web Design",
+                    "title": "Entwicklung einer Shopify App",
+                    "category": "The Quality Group",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "Entwicklung einer maßgeschneiderten Shopify-App für die Quality Group zur Optimierung des komplexen Back-in-Stock-Prozesses."
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "Die App integriert sich nahtlos mit Klaviyo über APIs, um personalisierte Benachrichtigungen an Kunden zu senden, sobald Produkte wieder verfügbar sind."
+                        },
+                        {
+                            "content": "Automatisierung des gesamten Prozesses, um die Effizienz zu steigern und manuelle Aufgaben zu reduzieren."
+                        },
+                        {
+                            "content": "Durch die App konnte die Kundenzufriedenheit erhöht und die Umsätze gesteigert werden, indem Kunden sofort über die Verfügbarkeit ihrer gewünschten Produkte informiert wurden."
+                        },
+                        {
+                            "content": "Die App bietet umfassende Anpassungs- und Konfigurationsmöglichkeiten, um den spezifischen Anforderungen der Quality Group gerecht zu werden."
+                        },
+                        {
+                            "content": "Enger Austausch und kontinuierliche Zusammenarbeit mit der Quality Group zur Weiterentwicklung und Optimierung der App."
+                        },
+                        {
+                            "content": "Erforderliche Kenntnisse: Shopify, Liquid, Klaviyo, APIs, Node.js, React."
                         }
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-05.jpg"
+                            "src": "../images/portfolio/portfolio-06.jpg"
                         }
                     ],
                     "path": "#!",
@@ -216,19 +294,34 @@
                 },
                 {
                     "id": 6,
-                    "title": "App for tecnology & services",
-                    "category": "Web Design",
+                    "title": "Shopify Support",
+                    "category": "More Nutrition",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                            "content": "Unterstützung bei der Entwicklung und Optimierung von Shopify-Stores für verschiedene Kundenprojekte."
                         },
                         {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "Anpassung und Erweiterung bestehender Shopify-Themes, um die individuellen Anforderungen und Designvorgaben der Kunden zu erfüllen."
+                        },
+                        {
+                            "content": "Implementierung neuer Funktionen und Features zur Verbesserung der Benutzererfahrung und Erhöhung der Conversion-Rate."
+                        },
+                        {
+                            "content": "Integration von Drittanbieter-Apps und -Diensten, um die Funktionalität des Shops zu erweitern und Prozesse zu automatisieren."
+                        },
+                        {
+                            "content": "Durchführung umfassender Tests und Fehlerbehebungen, um eine reibungslose und fehlerfreie Performance zu gewährleisten."
+                        },
+                        {
+                            "content": "Enge Zusammenarbeit mit den Kunden, um deren Geschäftsziele zu verstehen und maßgeschneiderte Lösungen zu entwickeln."
+                        },
+                        {
+                            "content": "Erforderliche Kenntnisse: Shopify, Liquid, HTML, CSS, JavaScript."
                         }
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/portfolio-06.jpg"
+                            "src": "../images/portfolio/portfolio-05.jpg"
                         }
                     ],
                     "path": "#!",
@@ -296,33 +389,48 @@
                 {
                     "id": "default-home-skill-left",
                     "section_title": {
-                        "title": "Design Skill",
-                        "subtitle": "Features"
+                        "title": "Technische Skills",
+                        "subtitle": "HTML bis SQL"
                     },
                     "items": [
                         {
                             "id": 1,
-                            "title": "PHOTOSHOT",
-                            "value": 85
+                            "title": "Vue.Js",
+                            "value": 100
                         },
                         {
                             "id": 2,
-                            "title": "FIGMA",
+                            "title": "Angular.Js",
                             "value": 95
                         },
                         {
                             "id": 3,
-                            "title": "ADOBE XD",
-                            "value": 60
+                            "title": "Liquid",
+                            "value": 90
                         },
                         {
                             "id": 4,
-                            "title": "ADOBE ILLUSTRATOR",
-                            "value": 70
+                            "title": "React.Js",
+                            "value": 80
                         },
                         {
                             "id": 5,
-                            "title": "DESIGN",
+                            "title": "SQL",
+                            "value": 90
+                        },
+                        {
+                            "id": 6,
+                            "title": "Node.Js",
+                            "value": 85
+                        },
+                        {
+                            "id": 7,
+                            "title": "HTML & CSS",
+                            "value": 95
+                        },
+                        {
+                            "id": 8,
+                            "title": "GitHub",
                             "value": 90
                         }
                     ]
@@ -330,34 +438,49 @@
                 {
                     "id": "default-home-skill-right",
                     "section_title": {
-                        "title": "Design Skill",
-                        "subtitle": "Features"
+                        "title": "Anwendungen",
+                        "subtitle": "Shopify - Supabase"
                     },
                     "items": [
                         {
-                            "id": 1,
-                            "title": "HTML",
-                            "value": 85
+                            "id": 10,
+                            "title": "Shopify",
+                            "value": 100
                         },
                         {
-                            "id": 2,
-                            "title": "CSS",
-                            "value": 80
-                        },
-                        {
-                            "id": 3,
-                            "title": "JAVASCRIPT",
+                            "id": 11,
+                            "title": "Shopware",
                             "value": 90
                         },
                         {
-                            "id": 4,
-                            "title": "SOFTWARE",
+                            "id": 12,
+                            "title": "Supabase",
+                            "value": 100
+                        },
+                        {
+                            "id": 13,
+                            "title": "Firebase",
+                            "value": 80
+                        },
+                        {
+                            "id": 14,
+                            "title": "Figma",
+                            "value": 85
+                        },
+                        {
+                            "id": 15,
+                            "title": "Adobe Photoshop",
+                            "value": 80
+                        },
+                        {
+                            "id": 16,
+                            "title": "Docker",
                             "value": 75
                         },
                         {
-                            "id": 5,
-                            "title": "PLUGIN",
-                            "value": 70
+                            "id": 17,
+                            "title": "Vercel",
+                            "value": 90
                         }
                     ]
                 }
@@ -473,7 +596,7 @@
                     "designation": "Head of Engineering",
                     "projectTitle": "Shopify Entwicklung",
                     "projectMeta": "via Pagetime - August 1, 2023 - Juni 30, 2024",
-                   "description": "Finn Stolle hat als Senior Frontend Engineer auf freiberuflicher Basis maßgeblich zum Erfolg unseres Unternehmens beigetragen. Seine Expertise in Frontend-Technologien wie Shopify, React.js und Vue.js hat unsere Shopsysteme verbessert. Durch sein Coaching hat Finn unser Team weiterentwickelt. Er war stets zuverlässig, pünktlich und brachte innovative Ideen ein, die unsere Produktqualität verbesserten. Finn Stolle ist eine wertvolle Bereicherung für jedes Team. Für weitere Informationen stehe ich Ihnen gerne zur Verfügung.",
+                    "description": "Finn Stolle hat als Senior Frontend Engineer auf freiberuflicher Basis maßgeblich zum Erfolg unseres Unternehmens beigetragen. Seine Expertise in Frontend-Technologien wie Shopify, React.js und Vue.js hat unsere Shopsysteme verbessert. Durch sein Coaching hat Finn unser Team weiterentwickelt. Er war stets zuverlässig, pünktlich und brachte innovative Ideen ein, die unsere Produktqualität verbesserten. Finn Stolle ist eine wertvolle Bereicherung für jedes Team. Für weitere Informationen stehe ich Ihnen gerne zur Verfügung.",
                     "images": [
                         {
                             "src": "../images/testimonial/final-home--1st.png"
@@ -1280,27 +1403,26 @@
             "id": "default-home-pricing",
             "section": "pricing-section",
             "section_title": {
-                "title": "My Pricing",
-                "subtitle": "Pricing"
+                "title": "Mein Angebot",
+                "subtitle": "So arbeite ich"
             },
             "inner": [
                 {
                     "id": "pricing-static",
-                    "inner_title": "Basic",
-                    "title": "Make Your Single Page",
-                    "subtitle": "Elementor",
+                    "inner_title": "Stundenbasiert",
+                    "title": "Freie Flexibilität",
                     "is_featured": false,
-                    "price": "$30.00",
-                    "description": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary",
+                    "price": "€75.00",
+                    "description": "Die stundenbasierte Preisgestaltung bietet Ihnen maximale Flexibilität und volle Kostenkontrolle. Mit klarer und offener Kommunikation sorge ich dafür, dass Sie stets den Überblick behalten und sich auf eine vertrauensvolle Zusammenarbeit verlassen können.",
                     "items": [
                         {
                             "id": 1,
-                            "title": "1 Page with Elementor",
+                            "title": "Frontend-Entwicklung",
                             "available": true
                         },
                         {
                             "id": 2,
-                            "title": "Design Customization",
+                            "title": "Backend-Entwicklung",
                             "available": true
                         },
                         {
@@ -1310,22 +1432,22 @@
                         },
                         {
                             "id": 4,
-                            "title": "Content Upload",
+                            "title": "Bug-Fixing",
                             "available": true
                         },
                         {
                             "id": 5,
-                            "title": "Design Customization",
+                            "title": "SEO-Beratung",
                             "available": true
                         },
                         {
                             "id": 6,
-                            "title": "2 Plugins/Extensions",
+                            "title": "Beratung",
                             "available": true
                         },
                         {
                             "id": 7,
-                            "title": "multipage Elementor",
+                            "title": "Webdesign",
                             "available": true
                         },
                         {
@@ -1335,7 +1457,7 @@
                         },
                         {
                             "id": 9,
-                            "title": "MAintaine Design",
+                            "title": "Technischer Support",
                             "available": true
                         },
                         {
@@ -1345,12 +1467,12 @@
                         },
                         {
                             "id": 11,
-                            "title": "Design With XD",
-                            "available": false
+                            "title": "E-Commerce-Workshops",
+                            "available": true
                         },
                         {
                             "id": 12,
-                            "title": "8 Plugins/Extensions",
+                            "title": "Website-Wartung",
                             "available": true
                         }
                     ],
@@ -1360,71 +1482,70 @@
                 },
                 {
                     "id": "pricing-standard",
-                    "inner_title": "Standard",
-                    "title": "Design Make this Page",
-                    "subtitle": "Elementor",
-                    "is_featured": true,
-                    "price": "$50.00",
-                    "description": "Making this the first true generator on the Internet. It uses a dictionary & plugin Development.",
+                    "inner_title": "Projektbasiert",
+                    "title": "Projekt mit Festpreis",
+                    "is_featured": false,
+                    "price": "ab 10h",
+                    "description": "Lassen Sie uns Ihr nächstes großes Projekt gemeinsam angehen! Nach einem kostenlosen Erstgespräch erstelle ich Ihnen ein maßgeschneidertes Angebot, das perfekt auf Ihre Bedürfnisse und Ziele abgestimmt ist. Freuen Sie sich auf transparente Kosten, klare Kommunikation und erstklassige Ergebnisse.",
                     "items": [
                         {
                             "id": 1,
-                            "title": "1 Page with Elementor",
+                            "title": "E-Commerce Plattform",
                             "available": true
                         },
                         {
                             "id": 2,
-                            "title": "Design Customization",
+                            "title": "Web-App",
                             "available": true
                         },
                         {
                             "id": 3,
-                            "title": "Responsive Design",
+                            "title": "Corporate Website",
                             "available": true
                         },
                         {
                             "id": 4,
-                            "title": "Content Upload",
+                            "title": "UI/UX Redesign",
                             "available": true
                         },
                         {
                             "id": 5,
-                            "title": "Design Customization",
+                            "title": "SEO-Optimierung",
                             "available": true
                         },
                         {
                             "id": 6,
-                            "title": "2 Plugins/Extensions",
+                            "title": "Content Management System (CMS)",
                             "available": true
                         },
                         {
                             "id": 7,
-                            "title": "multipage Elementor",
+                            "title": "Progressive Web App (PWA)",
                             "available": true
                         },
                         {
                             "id": 8,
-                            "title": "Design Figma",
+                            "title": "API-Entwicklung",
                             "available": true
                         },
                         {
                             "id": 9,
-                            "title": "MAintaine Design",
+                            "title": "Dashboard für Datenvisualisierung",
                             "available": true
                         },
                         {
                             "id": 10,
-                            "title": "Content Upload",
+                            "title": "Native Apps",
                             "available": true
                         },
                         {
                             "id": 11,
-                            "title": "Design With XD",
-                            "available": false
+                            "title": "Hybride Mobile App",
+                            "available": true
                         },
                         {
                             "id": 12,
-                            "title": "8 Plugins/Extensions",
+                            "title": "Website-Wartung und -Support",
                             "available": true
                         }
                     ],
@@ -1434,74 +1555,12 @@
                 },
                 {
                     "id": "pricing-premium",
-                    "inner_title": "Premium",
-                    "title": "Customize Your Single Page",
-                    "subtitle": "Elementor",
+                    "inner_title": "Umsatzbeteiligung ",
+                    "title": "Gemeinsam zum Erfolg",
                     "is_featured": false,
-                    "price": "$90.00",
-                    "description": "I will install your desire theme and made like Theme demo and customize your single page( homepage)",
-                    "items": [
-                        {
-                            "id": 1,
-                            "title": "1 Page with Elementor",
-                            "available": true
-                        },
-                        {
-                            "id": 2,
-                            "title": "Design Customization",
-                            "available": true
-                        },
-                        {
-                            "id": 3,
-                            "title": "Responsive Design",
-                            "available": true
-                        },
-                        {
-                            "id": 4,
-                            "title": "Content Upload",
-                            "available": true
-                        },
-                        {
-                            "id": 5,
-                            "title": "Design Customization",
-                            "available": true
-                        },
-                        {
-                            "id": 6,
-                            "title": "2 Plugins/Extensions",
-                            "available": true
-                        },
-                        {
-                            "id": 7,
-                            "title": "multipage Elementor",
-                            "available": true
-                        },
-                        {
-                            "id": 8,
-                            "title": "Design Figma",
-                            "available": true
-                        },
-                        {
-                            "id": 9,
-                            "title": "MAintaine Design",
-                            "available": true
-                        },
-                        {
-                            "id": 10,
-                            "title": "Content Upload",
-                            "available": true
-                        },
-                        {
-                            "id": 11,
-                            "title": "Design With XD",
-                            "available": false
-                        },
-                        {
-                            "id": 12,
-                            "title": "8 Plugins/Extensions",
-                            "available": true
-                        }
-                    ],
+                    "price": "Beteiligung",
+                    "description": "Setzen wir gemeinsam auf Erfolg! Ich biete Ihnen die Möglichkeit einer umsatzbeteiligten Zusammenarbeit, bei der mein Honorar direkt an den Erfolg Ihres Projekts gekoppelt ist. Dies fördert eine partnerschaftliche Zusammenarbeit und maximiert den Anreiz für herausragende Ergebnisse.",
+                    "items": [],
                     "orderLink": "#!",
                     "deliveryTime": 2,
                     "revission": "Unlimited"
@@ -1520,8 +1579,8 @@
             "id": "default-home-contact",
             "section": "contact-section",
             "section_title": {
-                "title": "Contact With Me",
-                "subtitle": "Contact"
+                "title": "Kontaktieren sich mich",
+                "subtitle": "Kontakt"
             },
             "images": [
                 {
@@ -1538,7 +1597,7 @@
             ],
             "texts": [
                 {
-                    "content": "Ich stehe für freiberufliche Arbeiten zur Verfügung. Kontaktieren Sie mich über und rufen Sie mich auf meinem Account an."
+                    "content": "Ich stehe für freiberufliche Arbeiten zur Verfügung."
                 }
             ]
         }
