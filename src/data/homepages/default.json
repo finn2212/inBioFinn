@@ -59,8 +59,7 @@
             "id": "default-home-services",
             "section": "service-section",
             "section_title": {
-                "title": "Was ich mache",
-                "subtitle": "Skills"
+                "title": "Skills"
             },
             "items": [
                 {
@@ -1543,7 +1542,7 @@
             "id": "default-home-contact",
             "section": "contact-section",
             "section_title": {
-                "title": "Kontaktieren sich mich",
+                "title": "Kontaktieren Sie mich",
                 "subtitle": "Kontakt"
             },
             "images": [

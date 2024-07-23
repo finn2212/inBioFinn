@@ -12,7 +12,7 @@ const ContactArea = ({ data }) => {
             className="rn-contact-area section-height"
         >
             <div className="inner">
-                <h5 className="title">Kontaktieren sich mich</h5>
+                <h5 className="title">Kontaktieren Sie mich</h5>
                 <ContactForm url={data.getform_url} />
             </div>
         </div>
