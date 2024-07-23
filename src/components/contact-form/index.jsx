@@ -35,6 +35,7 @@ const ContactForm = ({ className, url }) => {
         }
     };
     const onSubmit = (data, e) => {
+        e.preventDefault();
         const form = e.target;
         setServerState({ submitting: true });
         axios({

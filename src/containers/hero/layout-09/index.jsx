@@ -78,7 +78,7 @@ const HeroArea = ({ data, id }) => {
                                         {data?.skills && (
                                             <div className="skill-share-inner">
                                                 <span className="title">
-                                                    Beste Skills
+                                                    Highlight Skills
                                                 </span>
                                                 <SkillShare>
                                                     {data.skills.map(

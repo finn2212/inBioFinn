@@ -16,13 +16,7 @@ module.exports = {
                 id: 1,
                 title: "facebook",
                 path: "https://facebook.com",
-                icon: "Facebook",
-            },
-            {
-                id: 2,
-                title: "instagram",
-                path: "https://instagram.com",
-                icon: "Instagram",
+                icon: "xing",
             },
             {
                 id: 3,
