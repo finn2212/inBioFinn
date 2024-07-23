@@ -44,7 +44,7 @@ const HeroArea = ({ data, id }) => {
                                         {data?.socials && (
                                             <div className="social-share-inner-left">
                                                 <span className="title">
-                                                    find with me
+                                                    Zu finden bei
                                                 </span>
                                                 <Social>
                                                     {data.socials.map(

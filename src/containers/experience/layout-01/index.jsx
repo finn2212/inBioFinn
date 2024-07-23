@@ -12,7 +12,7 @@ const ExperienceArea = ({ data, id }) => {
                 {data?.inner?.map((content, i) => (
                     <div
                         className={cn(
-                            "col-lg-6 col-12",
+                            "col-12",
                             i !== 0 && "mt_md--60 mt_sm--60"
                         )}
                         key={content.id}

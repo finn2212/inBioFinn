@@ -13,12 +13,6 @@ module.exports = {
             "https://getform.io/f/7a6695a7-c8e3-442c-bc2f-d46d3b9a535e",
         socials: [
             {
-                id: 1,
-                title: "facebook",
-                path: "https://facebook.com",
-                icon: "xing",
-            },
-            {
                 id: 3,
                 title: "linkedin",
                 path: "https://de.linkedin.com/in/finn-stolle-969922178",

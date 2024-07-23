@@ -43,7 +43,7 @@ const IndexPage = ({ data }) => {
                 <PricingArea data={content["pricing-section"]} />
                 <ResumeArea data={content["resume-section"]}>
                     <ExperienceArea data={content["experience-section"]} />
-                    <InterviewArea data={content["interview-section"]} />
+                    {/* <InterviewArea data={content["interview-section"]} /> */}
                     <EducationArea data={content["education-section"]} />
                     <SkillArea data={content["skill-section"]} />
                 </ResumeArea>

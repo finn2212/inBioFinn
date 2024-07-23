@@ -118,7 +118,7 @@
                 {
                     "id": 1,
                     "title": "Technical Teamlead and Shopify Plus Developer",
-                    "category": "ESN",
+                    "category": "ESN - Sport and Nutrition",
                     "texts": [
                         {
                             "content": "Fokus auf die Verbesserung des ästhetischen Erscheinungsbilds und der Benutzeroberfläche, um modernen Designtrends und Usability-Standards zu entsprechen."
@@ -152,7 +152,7 @@
                 {
                     "id": 2,
                     "title": "Custom Online Shop Development Shopify",
-                    "category": "Janosch AG",
+                    "category": "Janosch AG - E-Commerce Spielwaren",
                     "texts": [
                         {
                             "content": "Planung und Umsetzung eines maßgeschneiderten Shopify-Shops zur Erfüllung der einzigartigen Anforderungen und strategischen Ziele des Kunden."
@@ -187,7 +187,7 @@
                 {
                     "id": 3,
                     "title": "Headless Shopware Shop With PWA",
-                    "category": "Capella AG",
+                    "category": "Capella AG - Notensatzprogramm",
                     "texts": [
                         {
                             "content": "Entwicklung einer headless E-Commerce-Plattform in Zusammenarbeit mit Capella AG, unter Verwendung von Shopware zur Lösung komplexer Geschäftsfälle durch innovative technologische Lösungen."
@@ -260,7 +260,7 @@
                 {
                     "id": 5,
                     "title": "Entwicklung einer Shopify App",
-                    "category": "The Quality Group",
+                    "category": "The Quality Group - E-Commerce",
                     "texts": [
                         {
                             "content": "Entwicklung einer maßgeschneiderten Shopify-App für die Quality Group zur Optimierung des komplexen Back-in-Stock-Prozesses."
@@ -359,23 +359,7 @@
                             "id": 2,
                             "title": "Master of Sience IT-Managment",
                             "subtitle": "Nordakademie Graduate School 2018-2020",
-                            "rating": "4.50/5",
                             "description": "Der Masterstudiengang IT-Management an der NORDAKADEMIE vertieft Kenntnisse in den Bereichen IT-Strategie, Projektmanagement und Unternehmensarchitektur. Der Fokus liegt auf der Verbindung von Informationstechnologie und Management, um effektive und innovative IT-Lösungen zu entwickeln. Praxisprojekte und interdisziplinäre Zusammenarbeit sind zentrale Bestandteile des Studiums."
-                        }
-                    ]
-                },
-                {
-                    "id": "education-section-right",
-                    "section_title": {
-                        "title": "Schulische Laufbahn",
-                        "subtitle": "2007 - 2010"
-                    },
-                    "items": [
-                        {
-                            "id": 1,
-                            "title": "Abitur",
-                            "subtitle": "Ludwig-Meyn-Gymnasium (2015)",
-                            "description": "Abitur am Ludwig-Meyn-Gymnasium im Jahr 2015 abgeschlossen, mit einem besonderen Schwerpunkt auf den Naturwissenschaften. Dieser Schwerpunkt hat mir fundierte Kenntnisse und ein tiefes Verständnis in Fächern wie Mathematik, Physik, Chemie und Biologie vermittelt."
                         }
                     ]
                 }
@@ -494,8 +478,8 @@
                 {
                     "id": "default-home-experience-left",
                     "section_title": {
-                        "title": "Selbständige Projekte",
-                        "subtitle": "2020 - 2024"
+                        "title": "",
+                        "subtitle": "2015 - 2024"
                     },
                     "items": [
                         {
@@ -517,20 +501,29 @@
                             "description": "Nutzung von Shopify zur Erfüllung der spezifischen Anforderungen und strategischen Ziele des Kunden. Bereitstellung eines interaktiven und ansprechenden Einkaufserlebnisses. Sicherstellung einer reibungslosen und sicheren Einkaufserfahrung. Umfassende SEO-Optimierung zur Verbesserung der Sichtbarkeit in Suchmaschinen. Durchführung gründlicher Qualitätssicherungs- und Testprotokolle für eine fehlerfreie Benutzererfahrung. Expertise in Shopify, Liquid, HTML und CSS erforderlich."
                         },
                         {
+                            "id": 4,
+                            "title": "Märchenposter Online Shop Development",
+                            "subtitle": "Germany (July 2022 - December 2022)",
+                            "description": "Leitung der Entwicklung eines einzigartigen Online-Shops für Märchenposter mit maßgeschneiderten E-Commerce-Lösungen und fortschrittlichen Zahlungsoptionen. Anpassbare Designstrategien für eine herausragende Benutzererfahrung über verschiedene Geräte hinweg. Strategische Implementierung zur Steigerung der Sichtbarkeit und Marktposition. Engagement für hohe Qualitäts- und Zuverlässigkeitsstandards."
+                        },
+                        {
+                            "id": 5,
+                            "title": "Shopify Shop and Data Warehouse Implementation",
+                            "subtitle": "Tool Trade Feldmann, Hessen, Germany (January 2022 - August 2022)",
+                            "description": "Entwicklung und Einführung eines umfassenden Shopify-Shops mit Integration des DreamRobot-Datenlagersystems. Konfiguration von Multi-Sales-Kanälen. Implementierung einer E-Commerce-Strategie zur Optimierung der Betriebsabläufe und Steigerung der Leistung. Fokus auf Benutzerfreundlichkeit und ansprechendes Design zur Verbesserung der Kundenzufriedenheit."
+                        },
+                        {
+                            "id": 2,
+                            "title": "Online Shop and Website Customization and Bug Fixing",
+                            "subtitle": "Kaimana Store, Jamul, Germany (November 2021 - January 2022)",
+                            "description": "Durchführung gezielter Anpassungen zur Verbesserung der Benutzererfahrung und Funktionalität. Identifizierung und Behebung technischer Probleme zur Gewährleistung einer reibungslosen und fehlerfreien Benutzererfahrung. Optimierung der Website-Performance für schnellere Ladezeiten und ein responsives Benutzerinterface. Verbesserung der E-Commerce-Funktionen zur Optimierung des Einkaufserlebnisses."
+                        },
+                        {
                             "id": 6,
                             "title": "Freelance Front-End Development",
                             "subtitle": "Corporate Planning AG, Hamburg, Germany (January 2020 - June 2022)",
                             "description": "Front-End-Entwicklung für die 'Corporate Planner' Software. Fokus auf ein intuitives und responsives Benutzeroberflächendesign. Durchführung von Code-Reviews und Qualitätssicherungsmaßnahmen zur Gewährleistung der Zuverlässigkeit und Effizienz des Front-End-Codes. Implementierung und Durchführung von Unit-Tests zur Validierung der Code-Funktionalität."
-                        }
-                    ]
-                },
-                {
-                    "id": "default-home-section-right",
-                    "section_title": {
-                        "title": "Berufserfahrung",
-                        "subtitle": "2007 - 2010"
-                    },
-                    "items": [
+                        },
                         {
                             "id": 1,
                             "title": "Full Stack Developer",
@@ -550,36 +543,7 @@
         {
             "id": "default-home-interview",
             "section": "interview-section",
-            "title": "Weitere Projekte",
-            "inner": [
-                {
-                    "id": "default-home-experience-left",
-                    "section_title": {
-                        "title": "Company Experience",
-                        "subtitle": "2020 - 2024"
-                    },
-                    "items": [
-                        {
-                            "id": 4,
-                            "title": "Märchenposter Online Shop Development",
-                            "subtitle": "Germany (July 2022 - December 2022)",
-                            "description": "Leitung der Entwicklung eines einzigartigen Online-Shops für Märchenposter mit maßgeschneiderten E-Commerce-Lösungen und fortschrittlichen Zahlungsoptionen. Anpassbare Designstrategien für eine herausragende Benutzererfahrung über verschiedene Geräte hinweg. Strategische Implementierung zur Steigerung der Sichtbarkeit und Marktposition. Engagement für hohe Qualitäts- und Zuverlässigkeitsstandards."
-                        },
-                        {
-                            "id": 5,
-                            "title": "Shopify Shop and Data Warehouse Implementation",
-                            "subtitle": "Tool Trade Feldmann, Hessen, Germany (January 2022 - August 2022)",
-                            "description": "Entwicklung und Einführung eines umfassenden Shopify-Shops mit Integration des DreamRobot-Datenlagersystems. Konfiguration von Multi-Sales-Kanälen. Implementierung einer E-Commerce-Strategie zur Optimierung der Betriebsabläufe und Steigerung der Leistung. Fokus auf Benutzerfreundlichkeit und ansprechendes Design zur Verbesserung der Kundenzufriedenheit."
-                        },
-                        {
-                            "id": 2,
-                            "title": "Online Shop and Website Customization and Bug Fixing",
-                            "subtitle": "Kaimana Store, Jamul, Germany (November 2021 - January 2022)",
-                            "description": "Durchführung gezielter Anpassungen zur Verbesserung der Benutzererfahrung und Funktionalität. Identifizierung und Behebung technischer Probleme zur Gewährleistung einer reibungslosen und fehlerfreien Benutzererfahrung. Optimierung der Website-Performance für schnellere Ladezeiten und ein responsives Benutzerinterface. Verbesserung der E-Commerce-Funktionen zur Optimierung des Einkaufserlebnisses."
-                        }
-                    ]
-                }
-            ]
+            "title": "Weitere Projekte"
         },
         {
             "id": "default-home-testimonial",
@@ -1476,7 +1440,7 @@
                             "available": true
                         }
                     ],
-                    "orderLink": "#!",
+                    "orderLink": "#contacts",
                     "deliveryTime": 2,
                     "revission": "Unlimited"
                 },
@@ -1549,7 +1513,7 @@
                             "available": true
                         }
                     ],
-                    "orderLink": "#!",
+                    "orderLink": "#contacts",
                     "deliveryTime": 2,
                     "revission": "Unlimited"
                 },
@@ -1561,7 +1525,7 @@
                     "price": "Beteiligung",
                     "description": "Setzen wir gemeinsam auf Erfolg! Ich biete Ihnen die Möglichkeit einer umsatzbeteiligten Zusammenarbeit, bei der mein Honorar direkt an den Erfolg Ihres Projekts gekoppelt ist. Dies fördert eine partnerschaftliche Zusammenarbeit und maximiert den Anreiz für herausragende Ergebnisse.",
                     "items": [],
-                    "orderLink": "#!",
+                    "orderLink": "#contacts",
                     "deliveryTime": 2,
                     "revission": "Unlimited"
                 }

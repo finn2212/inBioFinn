@@ -48,15 +48,19 @@ const PricingCard = ({
                     </div>
                 </div>
             </div>
-            <div className="pricing-footer">
-                <Anchor path={orderLink} className="rn-btn d-block">
+            <div className="pricing-footer" href="#contacts">
+                <Anchor
+                    path={orderLink}
+                    href="#contacts"
+                    className="rn-btn d-block"
+                >
                     <span>Jetzt Kontaktieren</span>
                     <ArrowRight />
                 </Anchor>
                 <div className="time-line">
                     <div className="single-cmt d-flex">
                         <Clock />
-                        <span>Schnelle Antwortzeity</span>
+                        <span>Rückmeldungen innerhalb von 24h</span>
                     </div>
                 </div>
             </div>
@@ -77,7 +81,7 @@ PricingCard.propTypes = {
 
 PricingCard.defaultProps = {
     features: [],
-    orderLink: "#!",
+    orderLink: "#contacts",
 };
 
 export default PricingCard;

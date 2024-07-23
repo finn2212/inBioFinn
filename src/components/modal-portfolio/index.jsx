@@ -61,7 +61,7 @@ const PortfolioModal = ({
                     <div className="col-lg-6">
                         <div className="text-content">
                             <h3>
-                                <span>Featured - {category}</span> {title}
+                                <span> {category}</span> {title}
                             </h3>
                             {texts?.map((text, i) => (
                                 <p
